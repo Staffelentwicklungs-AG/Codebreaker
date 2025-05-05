@@ -13,3 +13,37 @@ Inspired by: Watch Dogs / Cyberpunk 2077<br/>
 Genre: 2D Puzzle<br/>
 USP: Activate nodes in the correct sequence to "hack" a system before time runs out.<br/>
 Main focus: Puzzle flow, logic chains, visual feedback.<br/>
+
+Core Gameplay:<br/>
+Activate nodes in the correct order<br/>
+Each node has specific conditions (e.g. must follow another node)<br/>
+Limited time or moves per puzzle<br/>
+Incorrect sequences trigger system errors or alarms<br/>
+
+Mechanics:<br/>
+Grid-based puzzle layout<br/>
+
+Multiple node types:<br/> 
+ Power Node – provides energy<br/> 
+ Gate Node – requires multiple inputs<br/> 
+ Logic Node – performs AND/OR/NOT functions<br/> 
+ Trap Node – triggers alarm if activated incorrectly<br/> 
+ Switch/Rotator – redirects connections dynamically<br/>
+
+Visual connections show energy/data flow in real-time<br/>
+
+
+Unique Selling Points (USP):<br/>
+Smooth visual feedback (glowing lines, node color shifts)<br/>
+Increasingly complex logic chains<br/>
+Immersive cyberpunk atmosphere (sound design, glitch FX, neon UI)<br/>
+Level structure includes short missions and larger story-driven systems<br/>
+
+
+Story (optional):<br/> 
+You are a "Neuro-Runner" infiltrating digital systems for a rebel network. As you dive deeper into the net, firewalls grow stronger and digital defenses smarter – adding layers of challenge and tension.<br/>
+
+Target Audience:<br/>
+Puzzle and logic lovers<br/>
+Sci-fi and cyberpunk enthusiasts<br/>
+Players who enjoy fast-paced, visually satisfying problem-solving<br/>
